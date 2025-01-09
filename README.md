@@ -5,8 +5,11 @@ I wanted to create something interactive, that you could play with, so I decided
 It's about someone waking up in a forest, and trying to get enough rubies to get home.  
 It's a pretty simple game, but as a first project, I'm happy with it.
 
+### Discaimer
+There will be a warning when you click on the demo link if you have a PythonAnywhere account (if you don't, you can ignore this)  
+You can click on any of the three buttons
+
 ### How to Play
 Type one of the options shown, then try to play until you win!
 You can restart if you fail, and you can also find different ways to win!
-
 
